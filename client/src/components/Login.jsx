@@ -4,13 +4,19 @@ function Login({ onLogin, onRegister }) {
   const [email, setEmail] = useState("");
   const [password, setPassword] = useState("");
 
+  // This forces the app to use your live Render server!
+  const API_URL = "https://protein-tracker-backend.onrender.com";
+
   const handleSubmit = async (e) => {
     e.preventDefault();
-    const response = await fetch("http://localhost:5000/auth/login", {
+    
+    // Notice how we use backticks and the API_URL variable here now
+    const response = await fetch(`${API_URL}/auth/login`, {
       method: "POST",
       headers: { "Content-Type": "application/json" },
       body: JSON.stringify({ email, password }),
     });
+    
     const data = await response.json();
     if (!response.ok) { alert(data.message || "Login failed"); return; }
     if (!data.token) { alert("Login failed: no token returned"); return; }
@@ -22,7 +28,6 @@ function Login({ onLogin, onRegister }) {
     <div className="min-h-screen bg-slate-950 flex items-center justify-center">
       <div className="w-[420px] bg-slate-900 border border-cyan-500/20 rounded-3xl p-8 shadow-2xl">
 
-        {/* Logo matching sidebar style */}
         <div className="mb-6">
           <h1 className="text-4xl font-bold bg-gradient-to-r from-cyan-400 to-purple-400 bg-clip-text text-transparent">
             PROTRACK
