@@ -12,7 +12,7 @@ const profileRoutes=require("./routes/profileRoutes")
 const app = express();
 
 app.use(cors({
-  origin: ['http://localhost:3000','http://localhost:5173', 'http://localhost', 'capacitor://localhost'],
+  origin: ['http://localhost:3000','http://localhost:5173', 'http://localhost', 'capacitor://localhost','https://pro-track-elite.vercel.app'],
   credentials: true
 }));app.use(express.json());
 
