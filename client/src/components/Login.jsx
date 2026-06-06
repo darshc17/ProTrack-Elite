@@ -5,13 +5,12 @@ function Login({ onLogin, onRegister }) {
   const [password, setPassword] = useState("");
 
   // This forces the app to use your live Render server!
-  const API_URL = "https://protrack-elite.onrender.com";
 
   const handleSubmit = async (e) => {
     e.preventDefault();
     
     // Notice how we use backticks and the API_URL variable here now
-    const response = await fetch(`${API_URL}/auth/login`, {
+const response = await fetch("http://localhost:5000/auth/login", {
       method: "POST",
       headers: { "Content-Type": "application/json" },
       body: JSON.stringify({ email, password }),

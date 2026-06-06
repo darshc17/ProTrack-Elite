@@ -1,0 +1,354 @@
+food_name,protein,calories,serving_unit,reference_quantity
+"Amaranth seed, black",14.59,356.1,100g,100
+Bajra,10.96,348,100g,100
+Barley,10.94,315.7,100g,100
+Jowar,9.97,334.1,100g,100
+"Maize, dry",8.8,334.1,100g,100
+"Maize, tender, local",3.57,120,100g,100
+"Maize, tender, sweet",4.16,96.8,100g,100
+Quinoa,13.11,328.4,100g,100
+Ragi,7.16,320.7,100g,100
+Rice flakes,7.44,353.7,100g,100
+Rice puffed,7.47,361.9,100g,100
+"Rice, raw, brown",9.16,353.7,100g,100
+"Rice, parboiled, milled",7.81,351.6,100g,100
+"Rice, raw, milled",7.94,356.4,100g,100
+Samai,10.13,346.3,100g,100
+Varagu,8.92,331.7,100g,100
+"Wheat flour, refined",10.36,351.8,100g,100
+"Wheat flour, atta",10.57,320.3,100g,100
+"Wheat, whole",10.59,321.9,100g,100
+"Wheat, bulgur",10.84,341.8,100g,100
+"Wheat, semolina",11.38,333.7,100g,100
+"Wheat, vermicelli",9.7,332.7,100g,100
+"Wheat, vermicelli, roasted",10.37,340.1,100g,100
+"Bengal gram, dal",21.55,329.1,100g,100
+"Bengal gram, whole",18.77,287,100g,100
+"Black gram, dal",23.06,324.1,100g,100
+"Black gram, whole",21.97,291.3,100g,100
+"Cowpea, brown",20.36,320.3,100g,100
+"Cowpea, white",21.25,320.3,100g,100
+"Field bean, black",19.93,276.1,100g,100
+"Field bean, brown",19.9,283,100g,100
+"Field bean, white",19.84,280.4,100g,100
+"Green gram, dal",23.88,325.8,100g,100
+"Green gram, whole",22.53,293.7,100g,100
+"Horse gram, whole",21.73,329.6,100g,100
+Lentil dal,24.35,322.4,100g,100
+"Lentil whole, brown",22.49,299,100g,100
+"Lentil whole, yellowish",22.87,297.8,100g,100
+Moth bean,19.75,308.6,100g,100
+"Peas, dry",20.43,303.3,100g,100
+"Rajmah, black",19.01,298,100g,100
+"Rajmah, brown",19.5,297.6,100g,100
+"Rajmah, red",19.91,299.2,100g,100
+"Red gram, dal",21.7,330.8,100g,100
+"Red gram, whole",20.47,273.9,100g,100
+Ricebean,19.97,302.3,100g,100
+"Soybean, brown",35.58,381.5,100g,100
+"Soybean, white",37.8,377.4,100g,100
+Agathi leaves,8.01,70.5,100g,100
+"Amaranth leaves, green",3.29,30.6,100g,100
+"Amaranth leaves, red",3.93,33.5,100g,100
+Basella leaves,1.57,19.6,100g,100
+Bathua leaves,2.5,27.7,100g,100
+Beet greens,2.38,34.7,100g,100
+"Betel leaves, big",2.51,48.3,100g,100
+"Betel leaves, small",2.62,43.7,100g,100
+"Cabbage, Chinese",1.58,17.9,100g,100
+"Colocasia leaves, green",3.42,43.5,100g,100
+Drumstick leaves,6.41,67.4,100g,100
+Fenugreek leaves,3.68,34.4,100g,100
+Garden cress,5.62,49.7,100g,100
+"Gogu leaves, green",1.86,36.3,100g,100
+"Gogu leaves, red",1.85,36.6,100g,100
+Lettuce,1.54,21.7,100g,100
+Mustard leaves,3.52,30.4,100g,100
+Pak Choi leaves,1.41,16,100g,100
+Parsley,5.55,72.9,100g,100
+Ponnaganni,5.29,50.9,100g,100
+"Pumpkin leaves, tender",4.21,44.2,100g,100
+Radish leaves,2.22,26.1,100g,100
+Rumex leaves,1.62,19.6,100g,100
+Spinach,2.14,24.4,100g,100
+"Tamarind leaves, tender",5.84,71.5,100g,100
+Ash gourd,0.79,17.4,100g,100
+"Bamboo shoot, tender",1.33,16.3,100g,100
+"Bean scarlet, tender",2.86,42.8,100g,100
+Brinjal-5,1.38,26.5,100g,100
+Brinjal-6,1.46,23.2,100g,100
+Brinjal-7,1.4,23.4,100g,100
+Brinjal-8,1.82,28,100g,100
+Brinjal-9,1.47,25.3,100g,100
+Brinjal-10,1.68,27.7,100g,100
+Brinjal-11,1.43,25.1,100g,100
+Brinjal-12,1.6,22.2,100g,100
+Brinjal-13,1.49,29.6,100g,100
+Brinjal-14,1.56,25.3,100g,100
+Brinjal-15,1.58,27.2,100g,100
+Brinjal-16,1.26,24.6,100g,100
+Brinjal-17,1.18,21.7,100g,100
+Brinjal-18,1.47,27.7,100g,100
+Brinjal-19,1.26,23.9,100g,100
+Brinjal-20,1.44,23.7,100g,100
+Brinjal-21,1.36,27,100g,100
+Brinjal - all varieties,1.48,25.3,100g,100
+Broad beans,3.85,29.4,100g,100
+"Capsicum, green",1.11,16.3,100g,100
+"Capsicum, red",1.47,19.8,100g,100
+"Capsicum, yellow",1.35,18.6,100g,100
+Cauliflower,2.15,22.9,100g,100
+Celery stalk,0.98,16.5,100g,100
+Cho-cho-marrow,0.66,18.9,100g,100
+Cluster beans,3.55,40.2,100g,100
+"Colocasia, stem, black",0.76,23.9,100g,100
+"Colocasia, stem, green",0.91,19.4,100g,100
+"Corn, baby",2.69,73.1,100g,100
+"Cucumber, green, elongate",0.71,19.6,100g,100
+"Cucumber, green, short",0.83,17.4,100g,100
+"Cucumber, orange, round",0.98,19.6,100g,100
+Drumstick,2.62,29.4,100g,100
+"Field beans, tender, broad",3.06,30.8,100g,100
+"Field beans, tender, lean",3.71,33.5,100g,100
+"French beans, country",2.49,24.4,100g,100
+"French beans, hybrid",2.12,22.2,100g,100
+"Jack fruit, raw",1.98,26.3,100g,100
+Knol - Khol,1.58,16,100g,100
+"Kovai, big",1.39,17.4,100g,100
+"Kovai, small",1.22,19.1,100g,100
+Ladies finger,2.08,27.5,100g,100
+"Mango, green, raw",0.69,49,100g,100
+"Onion, stalk",2.07,25.6,100g,100
+"Papaya, raw",0.5,23.9,100g,100
+Parwar,1.4,24.1,100g,100
+"Peas, fresh",7.25,81.3,100g,100
+"Plantain, flower",1.47,21.3,100g,100
+"Plantain, green",1.18,79.8,100g,100
+"Plantain, stem",0.35,39.4,100g,100
+"Pumpkin, green, cylindrical",0.87,24.6,100g,100
+"Pumpkin, orange, round",0.84,23.2,100g,100
+"Red gram, tender, fresh",8.09,124.3,100g,100
+Ridge gourd,0.91,13.1,100g,100
+"Ridge gourd, smooth skin",0.98,15.3,100g,100
+"Snake gourd, short",0.54,14.6,100g,100
+"Tinda, tender",1.02,13.9,100g,100
+"Tomato, green",1.12,20.8,100g,100
+"Tomato, ripe, hybrid",0.76,18.9,100g,100
+"Tomato, ripe, local",0.9,19.6,100g,100
+"Zucchini, green",1.1,20.1,100g,100
+"Zucchini, yellow",1.31,18.9,100g,100
+"Apple, big",0.29,62.4,100g,100
+"Apple, green",0.46,51.1,100g,100
+"Apple, small",0.31,63.8,100g,100
+"Apple, small, Kashmir",0.27,64.3,100g,100
+"Apricot, dried",3.17,315.7,100g,100
+"Apricot, processed",1.47,56.4,100g,100
+Avocado fruit,2.95,144.4,100g,100
+Bael fruit,2.63,136,100g,100
+"Banana, ripe, montham",1.25,110.7,100g,100
+"Banana, ripe, poovam",1.49,106.4,100g,100
+"Banana, ripe, red",1.29,111.6,100g,100
+"Banana, ripe, robusta",1.23,105.2,100g,100
+Black berry,0.92,54.3,100g,100
+"Cherries, red",1.49,59.8,100g,100
+"Currants, black",1.51,54.3,100g,100
+Custard apple,1.62,98.9,100g,100
+"Dates, dry, pale brown",2.45,320.3,100g,100
+"Dates, dry, dark brown",2.38,310.9,100g,100
+"Dates, processed",1.18,286.1,100g,100
+Fig,2.03,81.5,100g,100
+Gooseberry,0.34,23.7,100g,100
+"Grapes, seeded, round, black",0.76,60.7,100g,100
+"Grapes, seeded, round, green",0.77,56.2,100g,100
+"Grapes, seeded, round, red",0.95,58.3,100g,100
+"Grapes, seedless, oval, black",1.41,94.4,100g,100
+"Grapes, seedless, round, green",0.62,53.5,100g,100
+"Grapes, seedless, round, black",1.24,89.4,100g,100
+"Guava, white flesh",1.44,32.3,100g,100
+"Guava, pink flesh",1.19,46.6,100g,100
+"Jack fruit, ripe",2.74,72.2,100g,100
+"Jambu fruit, ripe",0.82,56.2,100g,100
+Karonda fruit,1.15,33.7,100g,100
+"Lime, sweet,pulp",0.76,27.2,100g,100
+Litchi,0.99,53.8,100g,100
+"Mango, ripe, banganapalli",0.54,41.8,100g,100
+"Mango, ripe, gulabkhas",0.52,50,100g,100
+"Mango, ripe, himsagar",0.46,44.7,100g,100
+"Mango, ripe, kesar",0.54,55.2,100g,100
+"Mango, ripe, neelam",0.68,42.5,100g,100
+"Mango, ripe, paheri",0.68,44.9,100g,100
+"Mango, ripe, totapari",0.41,59.3,100g,100
+Mangosteen,0.63,52.3,100g,100
+Manila tamarind,3.56,81.7,100g,100
+"Musk melon, orange flesh",0.42,23.2,100g,100
+"Musk melon, yellow flesh",0.53,27.7,100g,100
+"Orange, pulp",0.7,37.3,100g,100
+"Palm fruit, tender",0.5,24.1,100g,100
+"Papaya, ripe",0.42,23.9,100g,100
+Peach,0.86,40.2,100g,100
+Pear,0.36,37.5,100g,100
+Phalsa,1.66,71.5,100g,100
+Pineapple,0.52,43,100g,100
+Plum,0.64,56.9,100g,100
+"Pomegranate, maroon seeds",1.33,54.7,100g,100
+Pummelo,0.68,50.2,100g,100
+"Raisins, dried, black",2.57,305.7,100g,100
+"Raisins, dried, golden",2.76,296.6,100g,100
+Rambutan,0.68,73.1,100g,100
+Sapota,0.92,73.4,100g,100
+Soursop,0.74,62.1,100g,100
+Star fruit,0.79,26.3,100g,100
+Strawberry,0.97,24.6,100g,100
+"Tamarind, pulp",2.92,288.5,100g,100
+"Water melon, pale green",0.59,16.7,100g,100
+Wood Apple,3.14,78.2,100g,100
+Zizyphus,1.34,48.8,100g,100
+Beet root,1.95,35.6,100g,100
+"Carrot, orange",0.95,33.2,100g,100
+"Carrot, red",1.04,38.2,100g,100
+Colocasia,3.31,88.9,100g,100
+Lotus root,1.94,79.3,100g,100
+"Potato, brown skin, big",1.54,69.8,100g,100
+"Potato, brown skin, small",1.35,60.9,100g,100
+"Potato, red skin",1.83,73.1,100g,100
+"Radish, elongate, red skin",0.67,32,100g,100
+"Radish, elongate, white skin",0.77,32.3,100g,100
+"Radish, round, red skin",0.89,31.1,100g,100
+"Radish, round, white skin",0.8,30.8,100g,100
+"Sweet potato, brown skin",1.33,109,100g,100
+"Sweet potato, pink skin",1.27,108,100g,100
+Tapioca,1.03,79.8,100g,100
+Water Chestnut,0.86,95.6,100g,100
+"Yam, elephant",2.56,84.4,100g,100
+"Yam, ordinary",2.18,83.4,100g,100
+"Yam, wild",3.07,102.8,100g,100
+"Chillies, green-1",2.62,45.7,100g,100
+"Chillies, green-2",2.28,39.9,100g,100
+"Chillies, green-3",2.38,40.4,100g,100
+"Chillies, green-4",2.33,45.4,100g,100
+"Chillies, green-5",2.01,43,100g,100
+"Chillies, green-6",3.01,41.8,100g,100
+"Chillies, green-7",2.12,39,100g,100
+"Chillies, green - all varieties",2.36,42.3,100g,100
+Coriander leaves,3.52,31.1,100g,100
+Curry leaves,7.41,63.6,100g,100
+"Garlic, big clove",6.92,123.8,100g,100
+"Garlic, small clove",6.75,122.8,100g,100
+"Garlic, single clove, Kashmir",6.12,125,100g,100
+"Ginger, fresh",2.22,55,100g,100
+Mango ginger,1.45,42.3,100g,100
+Mint leaves,4.66,37,100g,100
+"Onion, big",1.5,48,100g,100
+"Onion, small",1.82,56.6,100g,100
+Asafoetida,6.34,331.5,100g,100
+"Cardamom, green",8.1,255,100g,100
+"Cardamom, black",6.69,270.6,100g,100
+"Chillies, red",12.69,236.6,100g,100
+Cloves,5.86,186.7,100g,100
+Coriander seeds,10.66,268.9,100g,100
+Cumin seeds,13.91,304.5,100g,100
+Fenugreek seeds,25.41,234.9,100g,100
+Mace,6.24,355.6,100g,100
+Nutmeg,6.3,463.7,100g,100
+Omum,15.89,357.3,100g,100
+Pippali,10.53,216.5,100g,100
+"Pepper, black",10.12,217.5,100g,100
+Poppy seeds,20.31,422.6,100g,100
+Turmeric powder,7.66,280.6,100g,100
+Almond,18.41,609.2,100g,100
+"Arecanut, dried, brown",5.78,350.6,100g,100
+"Arecanut, dried, red color",6.46,353,100g,100
+"Arecanut, fresh",2.73,244.7,100g,100
+Cashew nut,18.78,582.7,100g,100
+"Coconut, kernel, dry",7.27,624,100g,100
+"Coconut, kernel, fresh",3.84,408.9,100g,100
+"Garden cress, seeds",23.36,445.3,100g,100
+"Gingelly seeds, black",19.17,507.6,100g,100
+"Gingelly seeds, brown",21.61,516.5,100g,100
+"Gingelly seeds, white",21.7,519.6,100g,100
+Ground nut,23.65,520.1,100g,100
+Mustard seeds,19.51,509.6,100g,100
+Linseeds,18.55,443.8,100g,100
+"Niger seeds, black",18.92,512.4,100g,100
+"Niger seeds, gray",18.34,508.6,100g,100
+Pine seed,12.55,594.2,100g,100
+Pistachio nuts,23.35,539.4,100g,100
+Safflower seeds,17.66,473.5,100g,100
+Sunflower seeds,23.53,586.3,100g,100
+Walnut,14.92,671.4,100g,100
+"Sugarcane, juice",0.16,57.8,100ml,100
+"Button mushroom, fresh",3.68,27.5,100g,100
+"Chicken mushroom, fresh",1.84,21.3,100g,100
+"Shiitake mushroom, fresh",3.19,58.1,100g,100
+"Oyster mushroom, dried",19.04,243.5,100g,100
+"Milk, whole, Buffalo",3.68,107.3,100ml,100
+"Milk, whole, Cow",3.26,72.9,100ml,100
+Paneer,18.86,305.4,100g,100
+Khoa,16.34,315.9,100g,100
+Curd,3.1,61,100g,100
+Buttermilk,1.8,40,100ml,100
+Lassi,3.3,98,100ml,100
+Ghee,0,900,100g,100
+Yogurt,3.5,59,100g,100
+Roti,3.8,120,piece,1
+Chapati,3.8,120,piece,1
+Paratha,4.5,260,piece,1
+Idli,2,58,piece,1
+Dosa,2.7,133,piece,1
+Masala Dosa,4.2,247,piece,1
+Poha,2.6,130,100g,100
+Upma,3.5,190,100g,100
+Khichdi,4.5,120,100g,100
+Sambar,2.2,75,100g,100
+Paneer Tikka,14.2,210,100g,100
+Dal Tadka,4.3,118,100g,100
+Chole,5.2,145,100g,100
+Rajma,4.8,130,100g,100
+Palak Paneer,4.5,125,100g,100
+Veg Biryani,3.2,150,100g,100
+Jeera Rice,2.4,140,100g,100
+Steamed Rice,2.2,130,100g,100
+Dhokla,4.1,160,100g,100
+Medu Vada,4.8,195,piece,1
+Uttapam,3.5,180,piece,1
+Puri,2.8,110,piece,1
+Bhakri (Jowar),3.2,140,piece,1
+Thepla,3.5,150,piece,1
+Samosa,3,260,piece,1
+Gulab Jamun,2.1,150,piece,1
+Greek Yogurt,10,59,100g,100
+Lassi Sweet,3.3,98,100ml,100
+Lassi Salted,3,60,100ml,100
+Butter,0.9,717,100g,100
+Cheese,25,402,100g,100
+Processed Cheese,22,350,100g,100
+Paneer Bhurji,16,265,100g,100
+Paneer Butter Masala,11,270,100g,100
+Kadai Paneer,12,220,100g,100
+Shahi Paneer,12,250,100g,100
+Matar Paneer,10,190,100g,100
+Paneer Paratha,8,320,piece,1
+Kanda Poha,2.8,140,100g,100
+Vegetable Upma,4,170,100g,100
+Rava Idli,3,85,piece,1
+Dosa Plain,2.7,133,piece,1
+Rava Dosa,3,180,piece,1
+Set Dosa,3.5,140,piece,1
+Phulka,3.6,110,piece,1
+Paratha Plain,4.5,260,piece,1
+Aloo Paratha,5.5,300,piece,1
+Dal Khichdi,4.5,120,100g,100
+Vegetable Khichdi,3.8,115,100g,100
+Rajma Curry,7.5,140,100g,100
+Chole Masala,8,165,100g,100
+Dal Fry,6.5,150,100g,100
+Rasam,0.8,25,100g,100
+Vegetable Pulao,3,150,100g,100
+Lemon Rice,2.5,140,100g,100
+Curd Rice,3.5,125,100g,100
+Tamarind Rice,2.8,160,100g,100
+Khandvi,5,140,100g,100
+Handvo,7,180,100g,100
+Pav Bhaji,7,250,100g,100
+Misal Pav,8,230,100g,100
+Vada Pav,6,290,piece,1
