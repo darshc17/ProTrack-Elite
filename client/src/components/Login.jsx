@@ -5,7 +5,7 @@ function Login({ onLogin, onRegister }) {
   const [password, setPassword] = useState("");
 
   // This forces the app to use your live Render server!
-  const API_URL = "https://protein-tracker-backend.onrender.com";
+  const API_URL = "https://protrack-elite.onrender.com";
 
   const handleSubmit = async (e) => {
     e.preventDefault();
