@@ -1,7 +1,8 @@
 const { Pool } = require("pg");
 require("dotenv").config(); // Ensure env variables are loaded
 
-const isProduction = process.env.NODE_ENV === "production";
+// FIX: If DATABASE_URL exists, we are definitely on the cloud (Render/Aiven)
+const isProduction = !!process.env.DATABASE_URL;
 
 const pool = new Pool({
   connectionString: isProduction ? process.env.DATABASE_URL : undefined,
